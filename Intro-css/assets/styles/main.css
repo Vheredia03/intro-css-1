@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+article {
+    background-color: rgb(4, 54, 4);
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.properties__articles span {
+    font-weight: bold;
+    text-decoration: underline;
+}
